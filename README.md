@@ -10,6 +10,7 @@ more info soon...
 
 ![Game](/readmeIMG/Game.png)
 
-AWSD - car movement
-Shift - handbrake
+## Controls:
+AWSD - car movement\
+Shift - handbrake\
 Arrows - Main menu
