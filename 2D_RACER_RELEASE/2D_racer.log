@@ -1,0 +1,110 @@
+﻿  Game.cpp
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\MapMenu.h(6,1): warning C4005: 'maxItems': macro redefinition
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Menu.h(6): message : see previous definition of 'maxItems'
+  Main.cpp
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\MapMenu.h(6,1): warning C4005: 'maxItems': macro redefinition
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Menu.h(6): message : see previous definition of 'maxItems'
+  Map.cpp
+  MapGrobnik.cpp
+  MapMenu.cpp
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\MapMenu.cpp(21,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\MapMenu.cpp(21,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\MapMenu.cpp(50,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MapNurburgring.cpp
+  Menu.cpp
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Menu.cpp(13,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Menu.cpp(13,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Menu.cpp(20,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Menu.cpp(27,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Play.cpp
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Play.cpp(42,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Play.cpp(42,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Racer.cpp
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(95,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(107,39): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(109,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(112,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(123,39): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(125,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(128,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(189,58): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\denik\Desktop\2D_TD_racer\2D_racer\2D_racer\Racer.cpp(190,57): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Timing.cpp
+  Generating code
+  82 of 375 functions (21.9%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2D_racer.vcxproj -> C:\Users\denik\Desktop\2D_TD_racer\2D_racer\Release\2D_racer.exe
