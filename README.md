@@ -9,3 +9,7 @@ more info soon...
 ![Tracks](/readmeIMG/Maps.png)
 
 ![Game](/readmeIMG/Game.png)
+
+AWSD - car movement
+Shift - handbrake
+Arrows - Main menu
